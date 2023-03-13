@@ -20,4 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 #### Project done under supervision of  Prof. [@Sara El-Metwally](https://github.com/SaraEl-Metwally) by:
 - [@Mohamad Salama Mousa ](https://github.com/MohamadSalamaMouse) | section 8
 - [@Mohamed Amr](https://github.com/mohamedamr987)     | Section 9
-- [@Mohamed Mohamed Kamel ](https://github.com/mokammel0000) | Section 9
+- [@Mohamed Kamel ](https://github.com/mokammel0000) | Section 9
